@@ -1,5 +1,7 @@
 package com.rebeca6;
 
-public class Telefone {
+public interface Telefone {
+
     
-}
+} 
+    
