@@ -1,5 +1,5 @@
 package com.rebeca6;
 
-public class Iphone {
+public class Iphone implements Ipod, Telefone, Navegador {
     
 }
