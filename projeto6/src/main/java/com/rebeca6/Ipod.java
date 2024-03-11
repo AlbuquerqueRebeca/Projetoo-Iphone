@@ -1,5 +1,5 @@
 package com.rebeca6;
 
-public class Ipod {
+public interface Ipod {
     
 }
