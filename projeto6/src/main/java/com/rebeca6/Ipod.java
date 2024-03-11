@@ -4,7 +4,7 @@ public interface Ipod {
     
 
    void tocar();
-
+   void pausarMusica();
 
 
 
