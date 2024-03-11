@@ -1,5 +1,8 @@
 package com.rebeca6;
 
-public class Navegador {
+public interface Navegador {
+
     
-}
+} 
+    
+
