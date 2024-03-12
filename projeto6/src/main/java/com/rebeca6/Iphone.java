@@ -20,7 +20,7 @@ System.out.println("Pausando a musica");
 
 @Override
 public void avançarMusica(){
-
+System.out.println("Avançar musica");
 }
 
 @Override
