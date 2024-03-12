@@ -30,6 +30,11 @@ public void avançarMusica(){
 
     @Override
     public void selecionarMusica(){
+
+    }
+
+    @Override
+    public void selecionarAlbum(){
         
     }
 
