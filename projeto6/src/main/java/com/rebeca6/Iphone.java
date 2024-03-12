@@ -20,8 +20,14 @@ public void pausarMusica(){
 
 @Override
 public void avançarMusica(){
-    
+
 }
+
+@Override
+    public void retrocederMusica() {
+
+    }
+
 
 
 
