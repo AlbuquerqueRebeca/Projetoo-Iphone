@@ -61,8 +61,14 @@ public void avançarMusica(){
 
     @Override
     public void iniciarCorreioVoz(){
-        
+
     }
+
+    //Navegador
+   @Override
+   public void exibirPagina(){
+    
+   }
 
 
 
