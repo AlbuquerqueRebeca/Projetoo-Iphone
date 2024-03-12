@@ -56,6 +56,11 @@ public void avançarMusica(){
 
     @Override
     public void adicionarContato(){
+
+    }
+
+    @Override
+    public void iniciarCorreioVoz(){
         
     }
 
