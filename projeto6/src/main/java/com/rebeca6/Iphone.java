@@ -72,7 +72,7 @@ System.out.println("Avançar musica");
    
    @Override
    public void adicionarPagina(){
-
+   System.out.println("Adicionando nova pagina"); 
    }
 
    @Override
