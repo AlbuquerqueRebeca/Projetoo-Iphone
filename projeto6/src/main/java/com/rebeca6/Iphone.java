@@ -15,7 +15,7 @@ public void tocar(){
 
 @Override
 public void pausarMusica(){
-
+System.out.println("Pausando a musica");
 }
 
 @Override
@@ -77,7 +77,7 @@ public void avançarMusica(){
 
    @Override
    public void atualizarPagina(){
-    
+
    }
 
 
