@@ -67,7 +67,7 @@ System.out.println("Avançar musica");
     //Navegador
    @Override
    public void exibirPagina(){
-
+   System.out.println("Exibindo pagina no navegador");
    }
    
    @Override
