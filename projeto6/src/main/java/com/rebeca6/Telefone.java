@@ -5,6 +5,7 @@ public interface Telefone {
   void ligar(); 
   void atender();
   void adicionarContato();
+  void iniciarCorreioVoz();
 
 
 
