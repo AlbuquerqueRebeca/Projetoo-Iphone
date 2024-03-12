@@ -46,6 +46,11 @@ public void avançarMusica(){
     //telefone
     @Override
     public void ligar(){
+
+    }
+
+    @Override
+    public void atender(){
         
     }
 
