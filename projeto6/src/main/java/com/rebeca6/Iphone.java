@@ -10,6 +10,11 @@ public class Iphone implements Ipod, Telefone, Navegador {
 
 @Override
 public void tocar(){
+
+}
+
+@Override
+public void pausarMusica(){
     
 }
 
