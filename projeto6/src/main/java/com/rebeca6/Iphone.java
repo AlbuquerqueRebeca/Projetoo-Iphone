@@ -35,7 +35,7 @@ System.out.println("Avançar musica");
 
     @Override
     public void selecionarAlbum(){
-
+    System.out.println("Selecionar Album");
     }
 
     @Override
