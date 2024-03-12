@@ -35,6 +35,11 @@ public void avançarMusica(){
 
     @Override
     public void selecionarAlbum(){
+
+    }
+
+    @Override
+    public void selecionarBanda(){
         
     }
 
