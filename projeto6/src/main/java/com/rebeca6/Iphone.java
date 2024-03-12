@@ -56,7 +56,7 @@ System.out.println("Avançar musica");
 
     @Override
     public void adicionarContato(){
-
+    System.out.println("Adicionando contato novo");
     }
 
     @Override
