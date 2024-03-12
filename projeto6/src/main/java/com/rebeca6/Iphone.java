@@ -61,7 +61,7 @@ System.out.println("Avançar musica");
 
     @Override
     public void iniciarCorreioVoz(){
-
+     System.out.println("Iniciando correio de voz"); 
     }
 
     //Navegador
