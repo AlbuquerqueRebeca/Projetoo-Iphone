@@ -7,7 +7,7 @@ public class Iphone implements Ipod, Telefone, Navegador {
 
 
 
-
+//ipod 
 @Override
 public void tocar(){
 
@@ -40,10 +40,14 @@ public void avançarMusica(){
 
     @Override
     public void selecionarBanda(){
-        
+
     }
 
-
+    //telefone
+    @Override
+    public void ligar(){
+        
+    }
 
 
 
