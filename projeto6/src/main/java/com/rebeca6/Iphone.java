@@ -67,9 +67,13 @@ public void avançarMusica(){
     //Navegador
    @Override
    public void exibirPagina(){
+
+   }
+   
+   @Override
+   public void adicionarPagina(){
     
    }
-
 
 
 
