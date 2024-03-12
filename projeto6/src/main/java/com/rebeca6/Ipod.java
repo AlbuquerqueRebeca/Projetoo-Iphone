@@ -9,6 +9,7 @@ public interface Ipod {
    void retrocederMusica();
    void selecionarMusica();
    void selecionarAlbum();
+   void selecionarBanda();
 
 
 
