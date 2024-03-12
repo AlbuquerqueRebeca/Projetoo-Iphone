@@ -46,12 +46,12 @@ System.out.println("Avançar musica");
     //telefone
     @Override
     public void ligar(){
-
+    
     }
 
     @Override
     public void atender(){
-
+    System.out.println("Atender contato");
     }
 
     @Override
