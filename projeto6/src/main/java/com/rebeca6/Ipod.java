@@ -7,6 +7,7 @@ public interface Ipod {
    void pausarMusica();
    void avançarMusica();
    void retrocederMusica();
+   void selecionarMusica();
 
 
 
