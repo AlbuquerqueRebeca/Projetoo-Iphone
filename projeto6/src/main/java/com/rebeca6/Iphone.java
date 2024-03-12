@@ -15,6 +15,11 @@ public void tocar(){
 
 @Override
 public void pausarMusica(){
+
+}
+
+@Override
+public void avançarMusica(){
     
 }
 
