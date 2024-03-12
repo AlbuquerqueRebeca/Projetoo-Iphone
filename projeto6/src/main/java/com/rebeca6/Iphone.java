@@ -72,6 +72,11 @@ public void avançarMusica(){
    
    @Override
    public void adicionarPagina(){
+
+   }
+
+   @Override
+   public void atualizarPagina(){
     
    }
 
