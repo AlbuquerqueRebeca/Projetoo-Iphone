@@ -77,7 +77,7 @@ System.out.println("Avançar musica");
 
    @Override
    public void atualizarPagina(){
-
+   System.out.println("Atualizando pagina"); 
    }
 
 
