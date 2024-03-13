@@ -66,7 +66,7 @@ System.out.println("Avançar musica");
     //telefone
     @Override
     public void ligar(){
-    
+    System.out.println("Ligar para: ");
     }
 
     @Override
