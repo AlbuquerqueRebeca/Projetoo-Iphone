@@ -72,6 +72,7 @@ System.out.println("Avançar musica");
     @Override
     public void atender(){
     System.out.println("Atender contato");
+    String contato = scanner.nextLine();
     }
 
     @Override
