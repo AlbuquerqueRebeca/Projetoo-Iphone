@@ -7,7 +7,7 @@ public class Iphone implements Ipod, Telefone, Navegador {
 
 private Scanner scanner;
 public Iphone(){
-    
+    this.scanner = new Scanner(System.in);
 }
 
 
