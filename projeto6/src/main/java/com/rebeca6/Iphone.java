@@ -67,13 +67,13 @@ System.out.println("Avançar musica");
     @Override
     public void ligar(){
     System.out.println("Ligar para: ");
+    String contato = scanner.nextLine();
     }
 
     @Override
     public void atender(){
     System.out.println("Atender contato");
-    String contato = scanner.nextLine();
-    System.out.println("Ligando para: " + contato);
+    
     }
 
     @Override
