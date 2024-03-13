@@ -68,6 +68,7 @@ System.out.println("Avançar musica");
     public void ligar(){
     System.out.println("Ligar para: ");
     String contato = scanner.nextLine();
+    System.out.println("Ligando para: " + contato);
     }
 
     @Override
