@@ -24,7 +24,7 @@ public Iphone(){
 //ipod 
 @Override
 public void tocar(){
-
+System.out.println("Digite o nome da musica: ");
 }
 
 @Override
