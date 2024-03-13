@@ -6,6 +6,7 @@ public class Iphone implements Ipod, Telefone, Navegador {
     
 public static void main(String[] args) {
     Iphone iphone = new Iphone();
+    iphone.tocar(); //ipod 
 }
 
 
