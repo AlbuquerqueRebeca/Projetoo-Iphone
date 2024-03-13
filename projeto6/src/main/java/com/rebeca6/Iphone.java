@@ -57,7 +57,7 @@ System.out.println("Avançar musica");
 
     @Override
     public void selecionarBanda(){
-
+    System.out.println("Selecionar Banda: ");
     }
 
     //telefone
