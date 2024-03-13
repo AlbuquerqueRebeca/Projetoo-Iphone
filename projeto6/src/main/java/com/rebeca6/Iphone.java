@@ -4,6 +4,15 @@ import java.util.Scanner;
 
 public class Iphone implements Ipod, Telefone, Navegador {
     
+public static void main(String[] args) {
+    
+}
+
+
+
+
+
+
 
 private Scanner scanner;
 public Iphone(){
