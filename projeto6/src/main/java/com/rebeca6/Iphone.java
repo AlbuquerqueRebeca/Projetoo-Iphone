@@ -1,10 +1,14 @@
 package com.rebeca6;
 
+import java.util.Scanner;
+
 public class Iphone implements Ipod, Telefone, Navegador {
     
 
 private Scanner scanner;
-
+public Iphone(){
+    
+}
 
 
 //ipod 
