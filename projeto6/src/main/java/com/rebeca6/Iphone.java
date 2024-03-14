@@ -9,9 +9,20 @@ public static void main(String[] args) {
     Iphone iphone = new Iphone();
     iphone.tocar(); //ipod 
     iphone.selecionarBanda(); //ipod
-    iphone.ligar(); //telefone 
+    iphone.ligar(); //telefone
+    
+    
+   //testes
+   iphone.tocar("that´s life");
+   
+
+
+
+
+
 }
 
+ 
 
 
 
