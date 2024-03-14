@@ -55,13 +55,13 @@ public void avançarMusica(){
     @Override
     public void selecionarBanda(){
     System.out.println("Selecionar Banda: ");
-    String musica = scanner.nextLine();
-    System.out.println("Banda selecionada: " + musica);
+    String banda = scanner.nextLine();
+    System.out.println("Banda selecionada: " + banda);
 
     }
 
     public void selecionarBanda(String banda){
-
+    System.out.println("Banda selecionada: " + banda);
     }
 
     //telefone
