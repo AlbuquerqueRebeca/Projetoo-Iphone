@@ -32,6 +32,11 @@ String musica = scanner.nextLine();
 System.out.println("Tocando " + musica);
 }
 
+//teste
+public void tocar(String musica){
+
+}
+
 @Override
 public void pausarMusica(){
 }
@@ -59,7 +64,7 @@ public void avançarMusica(){
     System.out.println("Banda selecionada: " + banda);
 
     }
-
+    //teste
     public void selecionarBanda(String banda){
     System.out.println("Banda selecionada: " + banda);
     }
