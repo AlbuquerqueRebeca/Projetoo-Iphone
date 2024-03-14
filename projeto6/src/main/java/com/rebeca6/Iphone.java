@@ -57,6 +57,11 @@ public void avançarMusica(){
     System.out.println("Selecionar Banda: ");
     String musica = scanner.nextLine();
     System.out.println("Banda selecionada: " + musica);
+
+    }
+
+    public void selecionarBanda(String banda){
+
     }
 
     //telefone
