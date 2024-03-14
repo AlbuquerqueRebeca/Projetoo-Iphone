@@ -15,6 +15,7 @@ public static void main(String[] args) {
    //testes
    iphone.tocar("that´s life");
    iphone.selecionarBanda("frank sinatra");
+   iphone.ligar("123456");
    
 
 
