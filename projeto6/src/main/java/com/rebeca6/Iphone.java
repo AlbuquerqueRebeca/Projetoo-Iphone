@@ -34,7 +34,7 @@ System.out.println("Tocando " + musica);
 
 //teste
 public void tocar(String musica){
-
+System.out.println("Tocando " + musica); 
 }
 
 @Override
