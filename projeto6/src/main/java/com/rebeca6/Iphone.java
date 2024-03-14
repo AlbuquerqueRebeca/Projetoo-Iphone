@@ -2,6 +2,7 @@ package com.rebeca6;
 
 import java.util.Scanner;
 
+
 public class Iphone implements Ipod, Telefone, Navegador {
     
 public static void main(String[] args) {
@@ -33,27 +34,22 @@ System.out.println("Tocando " + musica);
 
 @Override
 public void pausarMusica(){
-System.out.println("Pausando a musica");
 }
 
 @Override
 public void avançarMusica(){
-System.out.println("Avançar musica");
 }
 
 @Override
     public void retrocederMusica() {
-    System.out.println("Retrocedendo a musica");
     }
 
     @Override
     public void selecionarMusica(){
-    System.out.println("Selecionar musica");
     }
 
     @Override
     public void selecionarAlbum(){
-    System.out.println("Selecionar Album");
     }
 
     @Override
@@ -70,38 +66,41 @@ System.out.println("Avançar musica");
     String contato = scanner.nextLine();
     System.out.println("Ligando para: " + contato);
     }
+   //teste
+    public void ligar(String contato){
+     
+    }
 
     @Override
     public void atender(){
-    System.out.println("Atender contato");
-    
     }
 
     @Override
     public void adicionarContato(){
-    System.out.println("Adicionando contato novo");
+    
     }
 
     @Override
     public void iniciarCorreioVoz(){
-     System.out.println("Iniciando correio de voz"); 
+     
     }
 
     //Navegador
    @Override
    public void exibirPagina(){
-   System.out.println("Exibindo pagina no navegador");
+   
    }
    
    @Override
    public void adicionarPagina(){
-   System.out.println("Adicionando nova pagina"); 
-   }
+    }
 
    @Override
    public void atualizarPagina(){
-   System.out.println("Atualizando pagina"); 
    }
+
+
+
 
 
 
