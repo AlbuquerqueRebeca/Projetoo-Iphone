@@ -68,7 +68,7 @@ public void avançarMusica(){
     }
    //teste
     public void ligar(String contato){
-     
+     System.out.println("Ligando para: " + contato);
     }
 
     @Override
