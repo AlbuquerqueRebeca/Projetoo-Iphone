@@ -1,5 +1,6 @@
 package com.rebeca6;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 class IphoneTest{
@@ -10,6 +11,7 @@ void musicaTocando(){
 Iphone iphone = new Iphone(); 
 String musicaEsperada = "That´s Life"; 
 iphone.tocar(musicaEsperada);
+Assertions.assertEquals(musicaEsperada, iphone.estaTocando());
 }
 
    
