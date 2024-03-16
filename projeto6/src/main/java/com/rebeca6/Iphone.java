@@ -40,7 +40,7 @@ System.out.println("Tocando " + musica);
 
 //teste
 public void tocar(String musica){
-  
+  this.musicaAtual = musica;
 System.out.println("Tocando " + musica); 
 }
 
