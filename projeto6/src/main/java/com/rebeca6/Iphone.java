@@ -102,7 +102,7 @@ public void avançarMusica(){
     
     //teste
     public String estaLigando(){
-        
+      return this.ligar;  
     }
     
 
