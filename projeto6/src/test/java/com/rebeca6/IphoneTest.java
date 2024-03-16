@@ -16,6 +16,9 @@ Assertions.assertEquals(musicaEsperada, iphone.estaTocando());
 
 
 @Test 
+void bandaEstaTocando(){
+    
+}
 
     
 
