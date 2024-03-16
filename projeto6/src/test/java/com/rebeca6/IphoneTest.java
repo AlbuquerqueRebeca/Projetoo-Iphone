@@ -25,6 +25,9 @@ Assertions.assertEquals(bandaEsperada, iphone.bandaTocando());
 
  
 @Test
+void ligandoParaContato(){
+    
+}
 
 
 
