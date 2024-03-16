@@ -9,6 +9,7 @@ class IphoneTest{
 void musicaTocando(){
 Iphone iphone = new Iphone(); 
 String musicaEsperada = "That´s Life"; 
+iphone.tocar(musicaEsperada);
 }
 
    
