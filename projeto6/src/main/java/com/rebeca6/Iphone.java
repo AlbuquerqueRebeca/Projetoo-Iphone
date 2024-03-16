@@ -79,7 +79,11 @@ public void avançarMusica(){
     this.Banda = banda;
     System.out.println("Banda selecionada: " + banda);
     }
-
+   
+    //teste
+    public String bandaTocando(){
+        return this.Banda;
+    }
    
 
     //telefone
