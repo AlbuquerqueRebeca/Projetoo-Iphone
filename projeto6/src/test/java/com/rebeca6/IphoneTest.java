@@ -29,7 +29,7 @@ void ligandoParaContato(){
  Iphone iphone = new Iphone(); 
  String ligaçaoEsperada = "123456"; 
  iphone.ligar(ligaçaoEsperada);
-  
+ Assertions.assertEquals(ligaçaoEsperada, iphone.estaLigando()); 
 }
 
 
