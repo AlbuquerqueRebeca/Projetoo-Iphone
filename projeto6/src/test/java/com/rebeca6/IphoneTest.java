@@ -18,6 +18,7 @@ Assertions.assertEquals(musicaEsperada, iphone.estaTocando());
 @Test 
 void bandaEstaTocando(){
 Iphone iphone = new Iphone();
+String bandaEsperada = "Frank Sinatra";
 }
 
     
