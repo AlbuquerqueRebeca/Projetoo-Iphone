@@ -3,7 +3,11 @@ package com.rebeca6;
 import java.util.Scanner;
 
 
+
 public class Iphone implements Ipod, Telefone, Navegador {
+    private String musicaAtual; //teste
+    
+
     
 public static void main(String[] args) {
     Iphone iphone = new Iphone();
@@ -17,20 +21,9 @@ public static void main(String[] args) {
    iphone.selecionarBanda("frank sinatra");
    iphone.ligar("123456");
    
-
-
-
-
-
 }
 
  
-
-
-
-
-
-
 private Scanner scanner;
 public Iphone(){
     this.scanner = new Scanner(System.in);
@@ -39,7 +32,7 @@ public Iphone(){
 
 //ipod 
 @Override
-public void tocar(){
+public void tocar(){   
 System.out.println("Digite o nome da musica: ");
 String musica = scanner.nextLine();
 System.out.println("Tocando " + musica);
@@ -47,8 +40,10 @@ System.out.println("Tocando " + musica);
 
 //teste
 public void tocar(String musica){
+  
 System.out.println("Tocando " + musica); 
 }
+
 
 @Override
 public void pausarMusica(){
@@ -120,7 +115,14 @@ public void avançarMusica(){
 
    @Override
    public void atualizarPagina(){
+    
    }
+ 
+   
+
+
+
+
 
 
 
