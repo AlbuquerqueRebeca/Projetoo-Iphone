@@ -96,7 +96,7 @@ public void avançarMusica(){
     }
    //teste
     public void ligar(String contato){
-     
+     this.ligar = contato;
      System.out.println("Ligando para: " + contato);
     }
 
