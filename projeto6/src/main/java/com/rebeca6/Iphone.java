@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Iphone implements Ipod, Telefone, Navegador {
     private String musicaAtual; //teste
-    
+    private String Banda; //teste 
 
     
 public static void main(String[] args) {
@@ -41,18 +41,16 @@ System.out.println("Tocando " + musica);
 //teste
 public void tocar(String musica){
   this.musicaAtual = musica;
-System.out.println("Tocando " + musica); 
-}
+  System.out.println("Tocando " + musica); 
+ }
   //teste
  public String estaTocando(){
     return this.musicaAtual;
-    
+    }
+
+ @Override
+ public void pausarMusica(){
  }
-
-
-@Override
-public void pausarMusica(){
-}
 
 @Override
 public void avançarMusica(){
@@ -79,8 +77,11 @@ public void avançarMusica(){
     }
     //teste
     public void selecionarBanda(String banda){
+    
     System.out.println("Banda selecionada: " + banda);
     }
+
+   
 
     //telefone
     @Override
