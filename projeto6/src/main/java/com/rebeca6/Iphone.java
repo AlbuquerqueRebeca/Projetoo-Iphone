@@ -7,7 +7,8 @@ import java.util.Scanner;
 public class Iphone implements Ipod, Telefone, Navegador {
     private String musicaAtual; //teste 
     private String Banda;  //teste
-    
+    private String ligar;  //teste
+
 public static void main(String[] args) {
     Iphone iphone = new Iphone();
     iphone.tocar(); //ipod 
@@ -95,8 +96,11 @@ public void avançarMusica(){
     }
    //teste
     public void ligar(String contato){
+     
      System.out.println("Ligando para: " + contato);
     }
+
+    
 
     @Override
     public void atender(){
