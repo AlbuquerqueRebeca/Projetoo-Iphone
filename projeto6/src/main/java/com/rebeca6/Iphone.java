@@ -45,6 +45,7 @@ System.out.println("Tocando " + musica);
 }
   //teste
  public String estaTocando(){
+    return this.musicaAtual;
     
  }
 
