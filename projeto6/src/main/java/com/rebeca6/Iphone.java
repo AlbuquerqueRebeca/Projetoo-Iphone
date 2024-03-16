@@ -99,7 +99,11 @@ public void avançarMusica(){
      this.ligar = contato;
      System.out.println("Ligando para: " + contato);
     }
-
+    
+    //teste
+    public String estaLigando(){
+        
+    }
     
 
     @Override
