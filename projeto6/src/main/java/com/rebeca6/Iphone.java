@@ -5,9 +5,8 @@ import java.util.Scanner;
 
 
 public class Iphone implements Ipod, Telefone, Navegador {
-    private String musicaAtual; //teste
-    private String Banda; //teste 
-
+    private String musicaAtual; //teste 
+    private String Banda;  //teste
     
 public static void main(String[] args) {
     Iphone iphone = new Iphone();
@@ -77,7 +76,7 @@ public void avançarMusica(){
     }
     //teste
     public void selecionarBanda(String banda){
-    
+    this.Banda = banda;
     System.out.println("Banda selecionada: " + banda);
     }
 
