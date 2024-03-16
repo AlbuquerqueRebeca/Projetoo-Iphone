@@ -26,7 +26,7 @@ Assertions.assertEquals(bandaEsperada, iphone.bandaTocando());
  
 @Test
 void ligandoParaContato(){
-    
+ Iphone iphone = new Iphone();   
 }
 
 
