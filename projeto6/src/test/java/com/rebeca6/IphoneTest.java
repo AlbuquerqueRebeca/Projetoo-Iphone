@@ -7,7 +7,7 @@ class IphoneTest{
     
 @Test
 void musicaTocando(){
-    
+Iphone iphone = new Iphone();  
 }
 
    
