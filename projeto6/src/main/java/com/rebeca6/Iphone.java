@@ -88,6 +88,11 @@ public boolean avançandoMusica(){
      this.selecionando = true; 
     }
 
+    //teste
+    public boolean selecionandoMusica(){
+        
+    }
+
     @Override
     public void selecionarAlbum(){
     }
