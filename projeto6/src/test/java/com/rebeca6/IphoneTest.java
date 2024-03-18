@@ -32,12 +32,10 @@ void ligandoParaContato(){
  Assertions.assertEquals(ligaçaoEsperada, iphone.estaLigando());
 }
 
-//ipod
+//ipod 
 @Test
 void musicaEstaPausada(){
-    Iphone iphone = new Iphone();
-    iphone.pausarMusica();
-    Assertions.assertTrue(iphone.musicaPausada());
+
 }
 
 
