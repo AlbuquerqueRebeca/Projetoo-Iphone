@@ -79,7 +79,7 @@ public boolean avançandoMusica(){
 
     //teste
     public boolean retrocedendoMusica(){ 
-
+      return this.retroceder;
     }
 
     @Override
