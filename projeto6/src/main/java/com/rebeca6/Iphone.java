@@ -68,7 +68,7 @@ public void avançarMusica(){
 
 //teste
 public boolean avançandoMusica(){
-    
+   return this.avançar; 
 }
 
 @Override
