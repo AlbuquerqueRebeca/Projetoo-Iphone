@@ -90,7 +90,7 @@ public boolean avançandoMusica(){
 
     //teste
     public boolean selecionandoMusica(){
-        
+      return this.selecionando;  
     }
 
     @Override
