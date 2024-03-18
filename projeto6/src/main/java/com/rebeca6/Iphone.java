@@ -66,6 +66,11 @@ public void avançarMusica(){
   this.avançar = true;   
 }
 
+//teste
+public boolean avançandoMusica(){
+    
+}
+
 @Override
     public void retrocederMusica() {
     }
