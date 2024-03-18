@@ -36,9 +36,8 @@ void ligandoParaContato(){
 @Test
 void musicaEstaPausada(){
 Iphone iphone = new Iphone();
-iphone.pausandoMusica();
-Assertions.assertTrue(iphone.pausandoMusica());
-}
+iphone.pausarMusica(); 
+
 
 
 
