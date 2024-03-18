@@ -61,6 +61,7 @@ void musicaEstaRetrocedendo(){
 void musicaEstaSendoSelecionada(){
   Iphone iphone = new Iphone(); 
   iphone.selecionarMusica();
+  Assertions.assertTrue(iphone.selecionandoMusica());
 }
 
 }
