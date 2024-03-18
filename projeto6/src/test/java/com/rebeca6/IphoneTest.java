@@ -44,6 +44,7 @@ Assertions.assertTrue(iphone.pausandoMusica());
 @Test
 void musicaEstaAvançando(){
 Iphone iphone = new Iphone();
+iphone.avançarMusica();
 }
 
 
