@@ -56,6 +56,10 @@ void musicaEstaRetrocedendo(){
  Assertions.assertTrue(iphone.retrocedendoMusica()); 
 }
 
-
+//ipod
+@Test
+void musicaEstaSendoSelecionada(){
+    
+}
 
 }
