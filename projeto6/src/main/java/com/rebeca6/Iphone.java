@@ -101,7 +101,7 @@ public boolean avançandoMusica(){
 
     //teste
     public boolean selecionandoAlbum(){
-        
+       return this.selecionandoA; 
     }
 
     @Override
