@@ -56,7 +56,7 @@ public void tocar(String musica){
 
  //teste
  public boolean pausandoMusica(){
-    
+    return this.pausada; 
  }
 
 
