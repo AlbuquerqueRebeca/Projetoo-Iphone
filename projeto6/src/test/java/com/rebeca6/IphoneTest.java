@@ -64,4 +64,10 @@ void musicaEstaSendoSelecionada(){
   Assertions.assertTrue(iphone.selecionandoMusica());
 }
 
+//ipod
+@Test
+void estaSelecionandoAlbum(){
+    
+}
+
 }
