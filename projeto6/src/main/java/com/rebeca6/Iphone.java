@@ -51,7 +51,7 @@ public void tocar(String musica){
 
  @Override
  public void pausarMusica(){
-    
+   this.pausada = true;  
  }
 
 
