@@ -8,6 +8,7 @@ public class Iphone implements Ipod, Telefone, Navegador {
     private String musicaAtual; //teste 
     private String Banda;  //teste
     private String ligar;  //teste
+    private boolean pausada; //teste 
 
 public static void main(String[] args) {
     Iphone iphone = new Iphone();
@@ -50,7 +51,9 @@ public void tocar(String musica){
 
  @Override
  public void pausarMusica(){
+    
  }
+
 
 @Override
 public void avançarMusica(){
