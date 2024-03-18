@@ -36,6 +36,7 @@ void ligandoParaContato(){
 @Test
 void musicaEstaPausada(){
 Iphone iphone = new Iphone();
+iphone.pausandoMusica();
 }
 
 
