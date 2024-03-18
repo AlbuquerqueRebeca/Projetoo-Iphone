@@ -51,7 +51,8 @@ Assertions.assertTrue(iphone.avançandoMusica());
 //ipod
 @Test
 void musicaEstaRetrocedendo(){
- Iphone iphone = new Iphone();   
+ Iphone iphone = new Iphone(); 
+ iphone.retrocederMusica();  
 }
 
 
