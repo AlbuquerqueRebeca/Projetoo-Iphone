@@ -63,6 +63,7 @@ public void tocar(String musica){
 
 @Override
 public void avançarMusica(){
+  this.avançar = true;   
 }
 
 @Override
