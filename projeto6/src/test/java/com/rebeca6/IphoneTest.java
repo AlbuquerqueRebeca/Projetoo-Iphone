@@ -68,7 +68,8 @@ void musicaEstaSendoSelecionada(){
 @Test
 void estaSelecionandoAlbum(){
  Iphone iphone = new Iphone(); 
- iphone.selecionarAlbum();   
+ iphone.selecionarAlbum();
+ Assertions.assertTrue(iphone.selecionandoAlbum());
 }
 
 }
