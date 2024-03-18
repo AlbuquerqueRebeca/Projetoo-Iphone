@@ -34,17 +34,11 @@ void ligandoParaContato(){
 
 //ipod 
 @Test
-void musicaEstaPausada(){
+void musicaEstaPausada() {
 Iphone iphone = new Iphone();
 iphone.pausarMusica(); 
-
-
-
-
-
-
-
+Assertions.assertTrue(iphone.pausandoMusica());
+}
 
 
 }
-
