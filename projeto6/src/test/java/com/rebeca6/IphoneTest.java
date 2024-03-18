@@ -35,7 +35,7 @@ void ligandoParaContato(){
 //ipod 
 @Test
 void musicaEstaPausada(){
-
+Iphone iphone = new Iphone();
 }
 
 
