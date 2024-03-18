@@ -99,6 +99,11 @@ public boolean avançandoMusica(){
       this.selecionandoA = true;  
     }
 
+    //teste
+    public boolean selecionandoAlbum(){
+        
+    }
+
     @Override
     public void selecionarBanda(){
     System.out.println("Selecionar Banda: ");
