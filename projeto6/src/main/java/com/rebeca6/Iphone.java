@@ -77,6 +77,11 @@ public boolean avançandoMusica(){
       this.retroceder = true;  
     }
 
+    //teste
+    public boolean retrocedendoMusica(){ 
+
+    }
+
     @Override
     public void selecionarMusica(){
     }
