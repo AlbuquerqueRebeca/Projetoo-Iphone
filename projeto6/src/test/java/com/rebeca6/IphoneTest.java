@@ -48,6 +48,11 @@ iphone.avançarMusica();
 Assertions.assertTrue(iphone.avançandoMusica());
 }
 
+//ipod
+@Test
+void musicaEstaRetrocedendo(){
+    
+}
 
 
 
