@@ -9,7 +9,8 @@ public class Iphone implements Ipod, Telefone, Navegador {
     private String Banda;  //teste
     private String ligar;  //teste
     private boolean pausada; //teste
-    private boolean avançar; //teste  
+    private boolean avançar; //teste 
+    private boolean retroceder; //teste  
 
 public static void main(String[] args) {
     Iphone iphone = new Iphone();
