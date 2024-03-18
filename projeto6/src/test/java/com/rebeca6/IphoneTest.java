@@ -67,7 +67,8 @@ void musicaEstaSendoSelecionada(){
 //ipod
 @Test
 void estaSelecionandoAlbum(){
- Iphone iphone = new Iphone();    
+ Iphone iphone = new Iphone(); 
+ iphone.selecionarAlbum();   
 }
 
 }
