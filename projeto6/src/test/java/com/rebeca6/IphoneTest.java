@@ -40,5 +40,13 @@ iphone.pausarMusica();
 Assertions.assertTrue(iphone.pausandoMusica());
 }
 
+//ipod
+@Test
+void musicaEstaAvançando(){
+
+}
+
+
+
 
 }
