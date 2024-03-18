@@ -53,6 +53,7 @@ Assertions.assertTrue(iphone.avançandoMusica());
 void musicaEstaRetrocedendo(){
  Iphone iphone = new Iphone(); 
  iphone.retrocederMusica();  
+ Assertions.assertTrue(iphone.retrocedendoMusica()); 
 }
 
 
