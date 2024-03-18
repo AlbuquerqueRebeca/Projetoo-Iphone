@@ -85,6 +85,7 @@ public boolean avançandoMusica(){
 
     @Override
     public void selecionarMusica(){
+     this.selecionando = true; 
     }
 
     @Override
