@@ -59,7 +59,8 @@ void musicaEstaRetrocedendo(){
 //ipod
 @Test
 void musicaEstaSendoSelecionada(){
-    
+  Iphone iphone = new Iphone(); 
+
 }
 
 }
