@@ -77,6 +77,8 @@ void estaSelecionandoAlbum(){
 void estaExibindoPagina(){ 
 Iphone iphone = new Iphone();
 iphone.exibirPagina(); 
+Assertions.assertTrue(iphone.exibindoPagina()); 
 }
+
 
 }
