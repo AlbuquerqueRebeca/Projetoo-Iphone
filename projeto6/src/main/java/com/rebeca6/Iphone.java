@@ -165,7 +165,7 @@ public boolean avançandoMusica(){
      
     //teste
     public boolean adicionandoContato(){ 
-
+     return this.adicionarC; 
     }
 
     @Override
