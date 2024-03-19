@@ -152,6 +152,11 @@ public boolean avançandoMusica(){
      this.atenderT = true; 
     }
 
+    //teste
+    public boolean atendendoTelefone(){
+      
+    }
+
     @Override
     public void adicionarContato(){
     
