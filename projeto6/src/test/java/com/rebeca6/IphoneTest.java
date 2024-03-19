@@ -100,6 +100,7 @@ Assertions.assertTrue(iphone.atualizandoPagina());
 @Test
 void telefoneEstaAtendendo(){
 Iphone iphone = new Iphone(); 
+iphone.atender();
 }
 
 }
