@@ -160,7 +160,7 @@ public boolean avançandoMusica(){
 
     @Override
     public void adicionarContato(){
-    
+     this.adicionar = true;
     }
 
     @Override
