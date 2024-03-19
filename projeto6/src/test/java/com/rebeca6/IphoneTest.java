@@ -88,5 +88,10 @@ iphone.adicionarPagina();
 Assertions.assertTrue(iphone.adicionandoPagina()); 
 }
 
+//Navegador 
+@Test
+void estaAtualizandoPagina(){ 
+
+  }
 
 }
