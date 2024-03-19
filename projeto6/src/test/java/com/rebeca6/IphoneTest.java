@@ -92,6 +92,7 @@ Assertions.assertTrue(iphone.adicionandoPagina());
 @Test
 void estaAtualizandoPagina(){ 
 Iphone iphone = new Iphone();
+iphone.atualizarPagina();
   }
 
 }
