@@ -162,6 +162,11 @@ public boolean avançandoMusica(){
     public void adicionarContato(){
      this.adicionarC = true;
     }
+     
+    //teste
+    public boolean adicionandoContato(){ 
+
+    }
 
     @Override
     public void iniciarCorreioVoz(){
