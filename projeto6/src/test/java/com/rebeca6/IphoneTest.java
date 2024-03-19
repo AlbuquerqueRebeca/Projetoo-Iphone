@@ -96,4 +96,10 @@ iphone.atualizarPagina();
 Assertions.assertTrue(iphone.atualizandoPagina());
 }
 
+//Telefone
+@Test
+void telefoneEstaAtendendo(){
+ 
+}
+
 }
