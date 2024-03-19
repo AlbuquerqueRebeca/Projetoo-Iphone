@@ -112,4 +112,10 @@ iphone.adicionarContato();
 Assertions.assertTrue(iphone.adicionandoContato());
 }
 
+//Telefone
+@Test
+void correioDeVozEstaIniciando(){
+  
+}
+
 }
