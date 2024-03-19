@@ -163,6 +163,11 @@ public boolean avançandoMusica(){
    public void exibirPagina(){
    this.exibir = true; 
    }
+
+   //teste
+   public boolean exibindoPagina(){
+    
+   }
    
    @Override
    public void adicionarPagina(){
