@@ -75,7 +75,8 @@ void estaSelecionandoAlbum(){
 //Navegador
 @Test
 void estaExibindoPagina(){ 
-Iphone iphone = new Iphone(); 
+Iphone iphone = new Iphone();
+iphone.exibirPagina(); 
 }
 
 }
