@@ -101,6 +101,7 @@ Assertions.assertTrue(iphone.atualizandoPagina());
 void telefoneEstaAtendendo(){
 Iphone iphone = new Iphone(); 
 iphone.atender();
+Assertions.assertTrue(iphone.atendendoTelefone());
 }
 
 }
