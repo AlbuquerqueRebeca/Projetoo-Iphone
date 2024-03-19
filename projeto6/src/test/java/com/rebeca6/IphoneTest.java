@@ -109,7 +109,7 @@ Assertions.assertTrue(iphone.atendendoTelefone());
 void estaAdicionandoContato(){
 Iphone iphone = new Iphone(); 
 iphone.adicionarContato();
-
+Assertions.assertTrue(iphone.adicionandoContato());
 }
 
 }
