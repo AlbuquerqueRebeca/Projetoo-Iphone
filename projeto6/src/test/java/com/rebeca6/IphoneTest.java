@@ -104,4 +104,10 @@ iphone.atender();
 Assertions.assertTrue(iphone.atendendoTelefone());
 }
 
+//telefone
+@Test
+void estaAdicionandoContato(){
+  
+}
+
 }
