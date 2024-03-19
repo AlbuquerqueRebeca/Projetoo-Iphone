@@ -176,7 +176,7 @@ public boolean avançandoMusica(){
 
     //teste
     public boolean iniciandoCorreioVoz(){
-      
+      return this.iniciarC; 
     }
 
     //Navegador
