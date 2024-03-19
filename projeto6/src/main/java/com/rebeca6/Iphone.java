@@ -171,7 +171,7 @@ public boolean avançandoMusica(){
 
     @Override
     public void iniciarCorreioVoz(){
-     
+     this.iniciarC = true;
     }
 
     //Navegador
