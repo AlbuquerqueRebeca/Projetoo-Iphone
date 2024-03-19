@@ -15,6 +15,7 @@ public class Iphone implements Ipod, Telefone, Navegador {
     private boolean selecionandoA; //teste 
     private boolean exibir; //teste
     private boolean adicionar; //teste
+    private boolean atualizar;
 
 
 public static void main(String[] args) {
@@ -182,7 +183,7 @@ public boolean avançandoMusica(){
 
    @Override
    public void atualizarPagina(){
-    
+   
    }
  
    
