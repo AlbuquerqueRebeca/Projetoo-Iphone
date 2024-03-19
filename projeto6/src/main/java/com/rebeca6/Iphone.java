@@ -166,7 +166,7 @@ public boolean avançandoMusica(){
 
    //teste
    public boolean exibindoPagina(){
-    
+    return this.exibir;
    }
    
    @Override
