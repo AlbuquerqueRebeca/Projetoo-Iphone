@@ -116,7 +116,8 @@ Assertions.assertTrue(iphone.adicionandoContato());
 @Test
 void correioDeVozEstaIniciando(){
 Iphone iphone = new Iphone(); 
-iphone.iniciarCorreioVoz();  
+iphone.iniciarCorreioVoz();
+Assertions.assertTrue(iphone.iniciandoCorreioVoz());
 }
 
 }
