@@ -108,7 +108,7 @@ Assertions.assertTrue(iphone.atendendoTelefone());
 @Test
 void estaAdicionandoContato(){
 Iphone iphone = new Iphone(); 
-
+iphone.adicionarContato();
 
 }
 
