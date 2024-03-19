@@ -85,6 +85,7 @@ Assertions.assertTrue(iphone.exibindoPagina());
 void estaAdicionandoPagina(){ 
 Iphone iphone = new Iphone(); 
 iphone.adicionarPagina();
+Assertions.assertTrue(iphone.adicionandoPagina()); 
 }
 
 
