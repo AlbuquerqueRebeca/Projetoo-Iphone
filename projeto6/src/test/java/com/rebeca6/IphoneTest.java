@@ -72,4 +72,10 @@ void estaSelecionandoAlbum(){
  Assertions.assertTrue(iphone.selecionandoAlbum());
 }
 
+//Navegador
+@Test
+void estaExibindoPagina(){ 
+
+}
+
 }
