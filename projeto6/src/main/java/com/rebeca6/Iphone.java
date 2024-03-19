@@ -185,6 +185,11 @@ public boolean avançandoMusica(){
    public void atualizarPagina(){
     this.atualizar = true;
    }
+
+   //teste
+   public boolean atualizandoPagina(){ 
+
+   }
  
    
 
