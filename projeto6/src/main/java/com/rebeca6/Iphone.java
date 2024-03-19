@@ -17,7 +17,8 @@ public class Iphone implements Ipod, Telefone, Navegador {
     private boolean adicionar; //teste
     private boolean atualizar; //teste
     private boolean atenderT; //teste 
-    private boolean adicionarC; //teste 
+    private boolean adicionarC; //teste
+    private boolean iniciarC; //teste  
 
 
 public static void main(String[] args) {
