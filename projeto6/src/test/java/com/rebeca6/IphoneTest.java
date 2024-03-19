@@ -99,7 +99,7 @@ Assertions.assertTrue(iphone.atualizandoPagina());
 //Telefone
 @Test
 void telefoneEstaAtendendo(){
- 
+Iphone iphone = new Iphone(); 
 }
 
 }
