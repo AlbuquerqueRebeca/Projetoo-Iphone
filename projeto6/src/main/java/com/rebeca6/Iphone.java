@@ -149,6 +149,7 @@ public boolean avançandoMusica(){
 
     @Override
     public void atender(){
+     this.atenderT = true; 
     }
 
     @Override
