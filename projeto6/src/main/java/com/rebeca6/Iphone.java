@@ -177,7 +177,7 @@ public boolean avançandoMusica(){
 
     //teste
     public boolean adicionandoPagina(){ 
-
+       return this.adicionar; 
     }
 
    @Override
