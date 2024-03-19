@@ -161,7 +161,7 @@ public boolean avançandoMusica(){
     //Navegador
    @Override
    public void exibirPagina(){
-   
+   this.exibir = true; 
    }
    
    @Override
