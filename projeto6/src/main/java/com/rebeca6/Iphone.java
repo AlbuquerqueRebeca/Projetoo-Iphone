@@ -174,6 +174,11 @@ public boolean avançandoMusica(){
      this.iniciarC = true;
     }
 
+    //teste
+    public boolean iniciandoCorreioVoz(){
+      
+    }
+
     //Navegador
    @Override
    public void exibirPagina(){
