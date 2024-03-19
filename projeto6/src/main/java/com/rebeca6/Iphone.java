@@ -175,6 +175,11 @@ public boolean avançandoMusica(){
     this.adicionar = true;
     }
 
+    //teste
+    public boolean adicionandoPagina(){ 
+
+    }
+
    @Override
    public void atualizarPagina(){
     
