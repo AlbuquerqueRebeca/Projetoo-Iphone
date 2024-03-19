@@ -154,7 +154,7 @@ public boolean avançandoMusica(){
 
     //teste
     public boolean atendendoTelefone(){
-      
+      return this.atenderT;
     }
 
     @Override
