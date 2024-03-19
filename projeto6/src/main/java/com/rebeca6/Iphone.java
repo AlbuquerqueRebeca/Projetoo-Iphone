@@ -188,7 +188,7 @@ public boolean avançandoMusica(){
 
    //teste
    public boolean atualizandoPagina(){ 
-
+    return this.atualizar;
    }
  
    
