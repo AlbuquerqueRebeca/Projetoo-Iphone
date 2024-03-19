@@ -80,5 +80,11 @@ iphone.exibirPagina();
 Assertions.assertTrue(iphone.exibindoPagina()); 
 }
 
+//Navegador
+@Test
+void estaAdicionandoPagina(){ 
+
+}
+
 
 }
