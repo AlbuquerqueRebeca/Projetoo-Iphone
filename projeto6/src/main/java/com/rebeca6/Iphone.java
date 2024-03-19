@@ -183,7 +183,7 @@ public boolean avançandoMusica(){
 
    @Override
    public void atualizarPagina(){
-   
+    this.atualizar = true;
    }
  
    
