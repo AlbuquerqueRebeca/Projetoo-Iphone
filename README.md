@@ -22,8 +22,7 @@ Além disso, adicionei o gêrenciamento de dêpendencias maven e a API jUnit par
 de cada interface. 
 
 ### Tecnologias usadas: 
-#### Java
-versão 17
+#### Java versão: 17
 Link: https://www.oracle.com/java/technologies/downloads/
 #### Instruçoes de instalação: 
 - Visite ao site oficial do oracle
