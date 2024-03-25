@@ -30,7 +30,7 @@ Link: https://www.oracle.com/java/technologies/downloads/
 - Clique no link de dowlond ao lado da versão do sistema operacional
 - Aceite o acordo de licença e siga as instruções
 
-Paradigmas: Programação orientada a objetos
+#### Paradigmas: Programação orientada a objetos
 
  #### Maven
  versão 3.1
