@@ -34,7 +34,41 @@ Paradigmas: Programação orientada a objetos
 
  #### Maven
  versão 3.1
+ Link: https://maven.apache.org/download.cgi?
+ #### Instruções de intalação: 
+ - visite o site
+ - Na seção “Apache Maven”, escolha a versão do Maven que corresponde ao seu sistema operacional
+ - Clique no link de download ao lado da versão do sistema operacional
+ - siga as instruções na tela para instalar o Maven.
+  
  
+ #### jUnit jupiter:  
+ versão: 5.7.1
+
+ <dependencies>
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-api</artifactId>
+        <version>5.7.1</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
+
+#### Instruções: 
+- Abra o arquivo pom.xml na IDE
+- localize a seção <dependencies> no arquivo
+- Dentro da seção <dependencies> adicione o bloco de código
+- Salve o arquivo
  
-jUnit jupiter:  5.7.1
+### Ferramentas usadas: 
+- IDE: Vs code 
+- Controle de versão: Git
+- Hospedagem de código: Github
+
+### Dependências usadas: 
+- maven 
+- jUnit jupiter
+
+### Testes 
+
 
