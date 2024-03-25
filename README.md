@@ -56,8 +56,8 @@ Link: https://www.oracle.com/java/technologies/downloads/
 
 #### Instruções: 
 - Abra o arquivo pom.xml na IDE
-- localize a seção <dependencies> no arquivo
-- Dentro da seção <dependencies> adicione o bloco de código
+- localize a seção dependencies no arquivo
+- Dentro da seção dependencies adicione o bloco de código
 - Salve o arquivo
  
 ### Ferramentas usadas: 
