@@ -45,7 +45,9 @@ Link: https://www.oracle.com/java/technologies/downloads/
  #### jUnit jupiter:  
  versão: 5.7.1
 
- <dependencies>
+
+```xml
+<dependencies>
     <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter-api</artifactId>
@@ -53,6 +55,8 @@ Link: https://www.oracle.com/java/technologies/downloads/
         <scope>test</scope>
     </dependency>
 </dependencies>
+```
+
 
 #### Instruções: 
 - Abra o arquivo pom.xml na IDE
@@ -69,6 +73,7 @@ Link: https://www.oracle.com/java/technologies/downloads/
 - maven 
 - jUnit jupiter
 
-### Testes 
+### Rodando o Projeto: 
+
 
 
