@@ -1,4 +1,4 @@
-# Projeto Iphone 2007
+# Projeto Iphone 2007 📱
 
 ### Introdução: 
 Um projeto com a intenção de simular um sistema com as principais funcionalidades do iphone (lançamento 2007), Trazendo os recursos do ipod,
@@ -74,7 +74,10 @@ Link: https://www.oracle.com/java/technologies/downloads/
 - jUnit jupiter
 
 ### Rodando o Projeto: 
+- Clone o repositório
 
+  ```bash
+  
 
 
 
