@@ -138,6 +138,44 @@ Ligando para: REBECA
 ```
 
 ### Testes 
+Utilizei jUnit para realizar testes unitários. 
+
+#### Teste com interação do usuário:
+O teste simula a entrada do usuário, e verifica se a música está tocando corretamente
+
+#### Entrada: 
+```java
+@Test
+void musicaTocando(){
+Iphone iphone = new Iphone(); 
+String musicaEsperada = "That´s Life"; 
+iphone.tocar(musicaEsperada);
+Assertions.assertEquals(musicaEsperada, iphone.estaTocando());
+}
+```
+#### Saída: 
+```bash
+Tocando That´s Life
+```
+#### Teste sem interação do usuário
+O teste verifica se a funcionalidade pausar música está funcionando corretamente.
+
+```java
+@Test
+void musicaEstaPausada() {
+Iphone iphone = new Iphone();
+iphone.pausarMusica(); 
+Assertions.assertTrue(iphone.pausandoMusica());
+}
+```
+
+### Conciderações finais
+
+
+
+
+
+
 
 
 
