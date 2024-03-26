@@ -87,7 +87,7 @@ mvn install
 mvn test
 ```
 ### Exemplos de Uso: 
-Exemplos de uso com as funcionalidades com interação com o usuário
+Exemplos de uso com as funcionalidades de interação com o usuário
 
 #### Funcionalidade TOCAR
 Nesta funcionalidade, o usuário digita o nome da música que deseja ouvir 
@@ -105,7 +105,7 @@ Always
 Tocando Always
 ```
 #### Funcionalidade SELECIONAR BANDA
-Nesta funcionalidade, o usuário digita o nome da banda da música escolhida.
+Nesta funcionalidade, o usuário digita o nome da banda da música escolhida
 
 #### Entrada: 
 ```java
@@ -137,6 +137,7 @@ REBECA
 Ligando para: REBECA
 ```
 
+### Testes 
 
 
 
