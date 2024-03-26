@@ -86,6 +86,56 @@ mvn install
 ```bash
 mvn test
 ```
+### Exemplos de Uso: 
+Exemplos de uso com as funcionalidades com interação com o usuário
+
+#### Funcionalidade TOCAR
+Nesta funcionalidade, o usuário digita o nome da música que deseja ouvir 
+
+#### Entrada: 
+```java
+@Override
+public void tocar(){   
+System.out.println("Digite o nome da musica: ");
+```
+#### Saída: 
+```bash
+Digite o nome da musica: 
+Always
+Tocando Always
+```
+#### Funcionalidade SELECIONAR BANDA
+Nesta funcionalidade, o usuário digita o nome da banda da música escolhida.
+
+#### Entrada: 
+```java
+@Override
+    public void selecionarBanda(){
+    System.out.println("Selecionar Banda: ");
+```
+
+#### Saída: 
+```bash
+Selecionar Banda: 
+blink
+Banda selecionada: blink
+```
+#### Funcionalidade LIGAR
+Nesta funcionalidade, o usuário liga para um de seus contatos.
+
+#### Entrada: 
+```java
+@Override
+    public void ligar(){
+    System.out.println("Ligar para: ");
+```
+
+#### Saída:
+```bash
+Ligar para: 
+REBECA
+Ligando para: REBECA
+```
 
 
 
