@@ -75,9 +75,18 @@ Link: https://www.oracle.com/java/technologies/downloads/
 
 ### Rodando o Projeto: 
 - Clone o repositório
+ ```bash
+https://github.com/AlbuquerqueRebeca/Projetoo-Iphone.git  
+ ```
+- Instale as dependências
+```bash
+mvn install
+```
+- Execute os testes
+```bash
+mvn test
+```
 
-  ```bash
-  
 
 
 
