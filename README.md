@@ -170,7 +170,12 @@ Assertions.assertTrue(iphone.pausandoMusica());
 ```
 
 
+### Conclusão
+Escolhi adicionar Maven e JUnit ao projeto para praticar teste unitário. Recentemente concluí um curso de teste unitário, 
+e eu quis colocar em prática o que aprendi no curso. No curso, mostra como criar um projeto Maven e como usar o gerenciamento de dependência no meu caso,
+adicionando a API JUnit.
 
+Achei que seria uma boa prática fazer testes iniciais com cada método, validando as funcionalidades.
 
 
 
